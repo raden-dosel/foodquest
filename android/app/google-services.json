@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "935488843940",
+    "project_id": "foodquest1-aa0c7",
+    "storage_bucket": "foodquest1-aa0c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935488843940:android:9fcb6cbaa6dc68fa85b631",
+        "android_client_info": {
+          "package_name": "com.example.foodquest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935488843940-ordhvnntf8vpuemva763kldh09tpo3qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnmWCc3HhnTuFjdpgF9OGh1-5a1G6wHWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935488843940-ordhvnntf8vpuemva763kldh09tpo3qv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "935488843940-hi8r6n76bgpvt49he2c5spkcjfpj1guq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodquest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
